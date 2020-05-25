@@ -1,3 +1,3 @@
-from autocomplete-flask import autocomplete
+from autocomplete import autocomplete
 
 app = autocomplete()

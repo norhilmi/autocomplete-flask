@@ -1,1 +1,1 @@
-web gunicorn wsgi:autocomplete
+web gunicorn wsgi:app
